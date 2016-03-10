@@ -2,6 +2,8 @@
 
 -- Find the sum of all the multiples of 3 or 5 below 1000.
 
+module Problem001 where
+
 import List exposing (..)
 import String exposing (..)
 import Html exposing (text)
